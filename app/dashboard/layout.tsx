@@ -4,7 +4,7 @@
  * date: 2024-06-12
  */
 
- import SideNav from '@/app/ui/dashboard/SideNav';
+ import SideNav from '@/app/ui/dashboard/sideNav';
 
  export default function Layout({children}:{children:React.ReactNode}) {
    return (
